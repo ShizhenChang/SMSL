@@ -37,4 +37,4 @@ Please cite our paper if you find it is useful for your research.
 The authors would like to express their thanks to the creators of [Viareggio](https://ieeexplore.ieee.org/document/7430258) and [BGU-iCVL-hyperspectral-image](https://icvl.cs.bgu.ac.il/hyperspectral/) datasets.
 
 ## Notice
-This demo is distributed under [MIT License](LICENSE) and is released for scientific purposes only.
+This repo is distributed under [MIT License](LICENSE) and is released for scientific purposes only.
