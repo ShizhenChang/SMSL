@@ -31,7 +31,6 @@ Please cite our paper if you find it is useful for your research.
   year={2022},
   doi={10.1109/TGRS.2022.3220814}
 }
-
 ```
 
 ## Acknowledgment
