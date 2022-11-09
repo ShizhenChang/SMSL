@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# SMSL
-=======
 # Sketched Multi-view Subspace Learning for Hyperspectral Anomalous Change Detection
 
 This is a demo of this work implemented in Matlab, written by Shizhen Chang, [Michael Kopp](https://github.com/mkk20) and [Pedram Ghamisi](https://www.pedram-ghamisi.com/).
@@ -41,4 +38,3 @@ The authors would like to express their thanks to the creators of [Viareggio](ht
 
 ## Notice
 This demo is distributed under [MIT License](LICENSE) and is released for scientific purposes only.
->>>>>>> 2153515 (.)
