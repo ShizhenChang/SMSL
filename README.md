@@ -27,8 +27,9 @@ Please cite our paper if you find it is useful for your research.
 @article{chang2022sketched,
   title={Sketched Multi-view Subspace Learning for Hyperspectral Anomalous Change Detection},
   author={Chang, Shizhen and Kopp, Michael and Ghamisi, Pedram},
-  journal={arXiv preprint arXiv:2210.04271},
-  year={2022}
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  year={2022},
+  doi={10.1109/TGRS.2022.3220814}
 }
 
 ```
