@@ -25,12 +25,15 @@ The package contains the following files.
 Please cite our paper if you find it is useful for your research.
 ```
 @article{chang2022sketched,
-  title={Sketched Multi-view Subspace Learning for Hyperspectral Anomalous Change Detection},
   author={Chang, Shizhen and Kopp, Michael and Ghamisi, Pedram},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Sketched Multi-view Subspace Learning for Hyperspectral Anomalous Change Detection}, 
   year={2022},
+  volume={},
+  number={},
+  pages={1-13},
   doi={10.1109/TGRS.2022.3220814}
-}
+  }
 ```
 
 ## Acknowledgment
